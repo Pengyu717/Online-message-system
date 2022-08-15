@@ -1,5 +1,4 @@
-# PHP
-PHP留言板 PHP message board
+PHP+txt文本文档留言板 PHP+TXT text document message board
 ly.db是用于储存发言信息的
 管理员页面在safe文件夹中的index.php，默认密码为：用户：Admin 密码：root
 若更改密码请打开safe文件夹中的user文件夹中的users.txt格式：
