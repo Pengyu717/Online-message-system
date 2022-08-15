@@ -6,6 +6,7 @@ ly.db是用于储存发言信息的
 密码
 主页是根目录中的chat1.php
 -------------------------------------------------
+此项目是原创项目,请保留我的署名(yuPengCN)与我的邮箱(yupenggithub@163.com)
 祝您生活愉快
 yuPengCN
 2022/8/15
@@ -19,6 +20,7 @@ user
 password
 The home page is chat1.php in the root directory
 -------------------------------------------------
+This project is original, please keep my signature (yuPengCN) and my email（ yupenggithub@163.com )
 I wish you a happy life
 yuPengCN
 2022/8/15
