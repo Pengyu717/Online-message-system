@@ -17,8 +17,10 @@
 - show（PHP文件，向所有用户展示留言信息）
 - showAdmin（PHP文件，向管理员展示留言信息并具有删除权限）
 <br>safe文件夹</br>
+<br></br>
 - index（PHP文件用于管理员账户登录）
 <br>safe/user文件夹</br>
+<br></br>
 - users（TXT文件，用于存储管理员密码格式：用户名【换行】密码）
 
 注意！
