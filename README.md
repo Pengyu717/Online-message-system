@@ -16,9 +16,9 @@
 - ly.db（.db文件，存储留言信息的数据库文件，可用文本文档编辑器打开）
 - show（PHP文件，向所有用户展示留言信息）
 - showAdmin（PHP文件，向管理员展示留言信息并具有删除权限）
-safe文件夹
+<br>safe文件夹</br>
 - index（PHP文件用于管理员账户登录）
-safe/user文件夹
+<br>safe/user文件夹</br>
 - users（TXT文件，用于存储管理员密码格式：用户名【换行】密码）
 
 注意！
