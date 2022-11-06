@@ -23,11 +23,6 @@
 
 注意！
 - 运行此项目需要您的服务器安装有能解析Hypertext Preprocessor即“超文本预处理器“文件的程式，且对于数据库文件（ly.db）存放的位置有”删除“，”写入“等基础权限。
- - [常规体](fonts/wqy-microhei-0.2.0-beta.ttc)
- - [细体](fonts/wqy-microhei-lite-0.2.0-beta.ttc)
+ - 您可能需要调整这些代码以符合您的使用场景，但请保留作者署名（Pengyu717)
 
-> 基于 Google 的 `Droid Sans Fallback`。
-
-## 版权声明和使用协议
-本字体版权为 [Google 公司](https://www.google.com/intl/en/contact/)和[文泉驿信任委员会（Board of Trustees）](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)所有，请遵循字体授权使用该字体。
-
+> Pengyu717保留所有权利2022.11.6
